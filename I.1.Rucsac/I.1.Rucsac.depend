@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527239381 source:c:\users\lukda\desktop\workspace\teza\ii\i.1.rucsac\main.cpp
+	<iostream>
+	<fstream>
+

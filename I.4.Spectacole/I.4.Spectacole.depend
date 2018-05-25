@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527193546 source:c:\users\lukda\desktop\workspace\teza\ii\i.4.spectacole\main.cpp
+	<iostream>
+	<fstream>
+

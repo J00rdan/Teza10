@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527113408 source:c:\users\lukda\desktop\workspace\teza\ii\ii.2.1.binary\main.cpp
+	<iostream>
+	<fstream>
+
